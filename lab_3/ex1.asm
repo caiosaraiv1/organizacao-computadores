@@ -1,7 +1,3 @@
-# Nome: Caio Ariel Cardoso Saraiva	RA: 10439611
-# Nome: Isabela Hissa Pinto	RA: 10441873
-# Nome: Kaique Barros Paiva	RA: 10441787
-
 .data
     msg_n:         .asciiz "Digite a quantidade de numeros: "        # Mensagem para solicitar o tamanho do vetor
     erro_n:        .asciiz "A quantidade tem que ser maior que 0.\n" # Mensagem de erro se n <= 0
