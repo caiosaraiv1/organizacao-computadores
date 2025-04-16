@@ -1,7 +1,3 @@
-# Nome: Caio Ariel Cardoso Saraiva	RA: 10439611
-# Nome: Isabela Hissa Pinto	RA: 10441873
-# Nome: Kaique Barros Paiva	RA: 10441787
-
 .data
 	menu: .asciiz "\n===== CONTROLE DE ESTOQUE =====\n1. Inserir\n2. Excluir\n3. Buscar\n4. Atualizar\n5. Imprimir\n6. Sair\n> Digite sua Opção: "
 	err: .asciiz "\nNumero invalido.\n\n"
